@@ -1,0 +1,11 @@
+{
+	"cases": "Cases:",
+	"todayCases": "New Cases:",
+	"deaths": "Deaths:",
+	"todayDeaths": "Deaths Today:",
+	"recovered": "Recoveries:",
+	"active": "Active:",
+	"critical": "Critical:",
+	"casesPerOneMillion": "Cases Per Million:",
+	"deathsPerOneMillion": "Deaths Per Million:"
+}

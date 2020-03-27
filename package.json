@@ -1,0 +1,13 @@
+{
+  "name": "coronabot",
+  "version": "1.0.0",
+  "description": "I give corona updates!",
+  "main": "bot.js",
+  "author": "Cerigo",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "novelcovid": "^1.0.7-b2",
+    "winston": "^3.2.1"
+  }
+}
